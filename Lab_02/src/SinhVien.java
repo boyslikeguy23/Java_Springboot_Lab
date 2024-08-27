@@ -7,7 +7,7 @@ class SinhVien {
     private static float diemTH;
 
     public float diemTrungBinh(){
-        return (SinhVien.diemLT+SinhVien.diemTH)/2;
+        return (diemLT+diemTH)/2;
     }
     // Phương thức để xếp loại sinh viên
     public String xepLoai() {
