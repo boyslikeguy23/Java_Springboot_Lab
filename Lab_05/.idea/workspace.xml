@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34e6fe23-bfea-494f-acdb-a63186a33642" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BaiThucHanh02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiThucHanh02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConvertTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConvertTemperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinhVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson5_Calculator/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson5_Calculator/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "boyslikeguy23"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;boyslikeguy23&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/boyslikeguy23/Java_Springboot_Lab.git",
-    "accountId": "bf88d7c0-392a-4f58-a62e-b1ffc9758710"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/boyslikeguy23/Java_Springboot_Lab.git&quot;,
+    &quot;accountId&quot;: &quot;bf88d7c0-392a-4f58-a62e-b1ffc9758710&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lbhWc8HQzl5fimJd2Paok2XdAu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,6 +51,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Studying/Java_Springboot_Project/Repos/Lab_05",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725454717572</updated>
       <workItem from="1725454718675" duration="4150000" />
+      <workItem from="1725550521150" duration="905000" />
     </task>
     <servers />
   </component>

@@ -39,17 +39,34 @@ public class SinhVien {
     public SinhVien() {
     }
 
+    /**
+     *
+     * @param rollNo Mã sinh viên
+     * @param name  Tên sinh viên
+     */
     public SinhVien(int rollNo, String name) {
         this.rollNo = rollNo;
         this.name = name;
     }
-
+    /**
+     *
+     * @param rollNo Mã sinh viên
+     * @param name  Tên sinh viên
+     * @param address Địa chỉ sinh viên
+     */
     public SinhVien(int rollNo, String name, String address) {
         this.rollNo = rollNo;
         this.name = name;
         this.address = address;
     }
 
+    /**
+     *
+     * @param rollNo Mã sinh viên
+     * @param name Tên sinh viên
+     * @param address Địa chỉ sinh viên
+     * @param mark Điểm sinh viên
+     */
     public SinhVien(int rollNo, String name, String address, float mark) {
         this.rollNo = rollNo;
         this.name = name;
