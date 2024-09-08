@@ -2,6 +2,8 @@ package vietnam;
 
 import product.Product;
 
+import java.util.Scanner;
+
 public class VietNamImportPrice extends Product {
     private float taxImported; //Thue nhap khau
 
@@ -24,15 +26,22 @@ public class VietNamImportPrice extends Product {
 
     @Override
     public void input(){
-
+        super.input();
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Imported Tax: ");
+        this.taxImported = sc.nextFloat();
     }
     @Override
-    public void display(){}
+    public void display(){
+        super.display();
+        System.out.println("Imported Tax: " + this.taxImported);
+    }
 
     @Override
     public float calculateSalePrice() {
         float importedPrice = super.calculateSalePrice();
-        return importedPrice + (importedPrice * this.taxImported) + (importedPrice * 0.10f);  // Sale price = Imported price + Tax + 10% profit margin
+        float sale_price = importedPrice + (importedPrice * this.taxImported) + 0.1f * (importedPrice + importedPrice * this.taxImported);  // Sale price = Imported price + Tax + 10% profit margin
+        return sale_price;
     }
 
 }

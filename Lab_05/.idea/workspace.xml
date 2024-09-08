@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e6fe23-bfea-494f-acdb-a63186a33642" name="Changes" comment="Lab05">
-      <change afterPath="$PROJECT_DIR$/src/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vietnam/VietNamImportPrice.java" afterDir="false" />
+    <list default="true" id="34e6fe23-bfea-494f-acdb-a63186a33642" name="Changes" comment="Lab05 bai tap tu lam">
+      <change afterPath="$PROJECT_DIR$/src/thailand/ThaiLandImportPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vietnam/GeneralManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vietnam/VietNamImportPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vietnam/VietNamImportPrice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thailand" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +89,8 @@
       <workItem from="1725454718675" duration="4150000" />
       <workItem from="1725550521150" duration="1599000" />
       <workItem from="1725635834851" duration="1532000" />
-      <workItem from="1725638206859" duration="2338000" />
+      <workItem from="1725638206859" duration="2444000" />
+      <workItem from="1725777051002" duration="8070000" />
     </task>
     <task id="LOCAL-00001" summary="Lab05">
       <option name="closed" value="true" />
@@ -92,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725552027592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab05 bai tap tu lam">
+      <option name="closed" value="true" />
+      <created>1725641175286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725641175286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab05" />
+    <MESSAGE value="Lab05 bai tap tu lam" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab05 bai tap tu lam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

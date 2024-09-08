@@ -1,5 +1,7 @@
 package product;
 
+import java.util.Scanner;
+
 public class Product {
     private String prodId;
     private String prodName;
@@ -61,11 +63,22 @@ public class Product {
 
     public void input()
     {
-
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Product ID: ");
+        this.prodId = sc.nextLine();
+        System.out.print("Enter Product Name: ");
+        this.prodName = sc.nextLine();
+        System.out.print("Enter Manufacturer: ");
+        this.manufacturer = sc.nextLine();
+        System.out.print("Enter Producer Price: ");
+        this.producerPrice = sc.nextFloat();
     }
 
     public void display(){
-
+        System.out.println("Product ID: " + this.prodId);
+        System.out.println("Product Name: " + this.prodName);
+        System.out.println("Manufacturer: " + this.manufacturer);
+        System.out.println("Producer Price: " + this.producerPrice);
     }
 
     public float calculateSalePrice(){
