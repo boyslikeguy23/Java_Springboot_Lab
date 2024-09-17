@@ -13,7 +13,7 @@ public class EmployeeTest{
         for (int i = 0; i < staff.length; i++)
         {
             Employee e = staff[i];
-            System.out.println("name=" + e.getName()", salary=" + e.getSalary() + ", hireDay=" + e.getHireDay());
+            System.out.println("name=" + e.getName() + ", salary=" + e.getSalary() + ", hireDay=" + e.getHireDay());
         }
     }
 }
