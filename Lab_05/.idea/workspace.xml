@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e6fe23-bfea-494f-acdb-a63186a33642" name="Changes" comment="Lab05 - done">
-      <change afterPath="$PROJECT_DIR$/../Lab06/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab06/src/Lab06_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab06/src/Lab06_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab06/src/Lab06_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab06/src/Lab06_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab06/src/Self_Studying/Lab06_01_self.java" afterDir="false" />
-    </list>
+    <list default="true" id="34e6fe23-bfea-494f-acdb-a63186a33642" name="Changes" comment="Lab05 - done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +87,7 @@
       <workItem from="1725638206859" duration="2444000" />
       <workItem from="1725777051002" duration="11826000" />
       <workItem from="1726758068831" duration="52000" />
+      <workItem from="1726834530145" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Lab05">
       <option name="closed" value="true" />
