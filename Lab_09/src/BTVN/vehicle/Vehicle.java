@@ -58,4 +58,13 @@ public class Vehicle implements IVehicle{
         System.out.println("Model: " + getModel());
         System.out.println("Price: " + getPrice());
     }
+
+    @Override
+    public String toString() {
+        return "Vehicle{" +
+                "maker='" + maker + '\'' +
+                ", model='" + model + '\'' +
+                ", price=" + price +
+                '}';
+    }
 }

@@ -7,6 +7,15 @@ import java.util.Scanner;
 public class Truck extends Vehicle {
     int truckload;
 
+    public Truck() {
+        super();
+    }
+
+    public Truck(String maker, String model, double price, int truckload) {
+        super(maker, model, price);
+        this.truckload = truckload;
+    }
+
     public int getTruckload() {
         return truckload;
     }

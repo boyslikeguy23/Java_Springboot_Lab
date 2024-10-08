@@ -27,4 +27,27 @@ public class Car extends Vehicle {
         super.display();
         System.out.println("Color: " + getColor());
     }
+
+    @Override
+    public String toString() {
+        return "Car{" +  getMaker() + ", " + getModel() + ", " + getPrice() +
+                "color='" + color + '\'' +
+                '}';
+    }
+
+    public Car(String maker, String model, double price, String color) {
+        super(maker, model, price);
+        this.color = color;
+    }
+
+    public Car(String color) {
+        this.color = color;
+    }
+
+    public Car(String maker, String model, double price) {
+        super(maker, model, price);
+    }
+
+    public Car() {
+    }
 }

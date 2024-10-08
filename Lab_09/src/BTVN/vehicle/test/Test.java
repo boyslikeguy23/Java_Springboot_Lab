@@ -7,6 +7,7 @@ import BTVN.vehicle.truck.Truck;
 import java.util.*;
 
 public class Test {
+    List<Vehicle> vehicles = new ArrayList<Vehicle>();
     ArrayList<Car> car = new ArrayList<>();
     ArrayList<Truck> truck = new ArrayList<>();
     public void Menu(){
@@ -98,6 +99,7 @@ public class Test {
         }while(choice != 5);
     }
     public static void main(String[] args) {
+
         new Test().Menu();
     }
 }
