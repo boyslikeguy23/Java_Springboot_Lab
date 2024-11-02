@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34e6fe23-bfea-494f-acdb-a63186a33642" name="Changes" comment="Lab05 - done">
+      <change afterPath="$PROJECT_DIR$/../Lab_03/src/BaiThucHanh05/BaiThucHanh05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFinal/src/maytinh/IMayTinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFinal/src/maytinh/MayTinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFinal/src/maytinh/apple/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFinal/src/maytinh/dell/Dell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFinal/src/maytinh/dell/mipComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFinal/src/maytinh/dell/mipComputer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +100,7 @@
       <workItem from="1726834530145" duration="7000" />
       <workItem from="1727665788025" duration="922000" />
       <workItem from="1727785219217" duration="18000" />
+      <workItem from="1729080255287" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="Lab05">
       <option name="closed" value="true" />
