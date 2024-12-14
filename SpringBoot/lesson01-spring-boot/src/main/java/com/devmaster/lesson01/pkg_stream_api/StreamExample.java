@@ -10,7 +10,7 @@ public class StreamExample {
     public void withoutStream(){
         int count = 0;
         for(Integer integer : integerList){
-            if(integer % 2 == 0){count++};
+            if(integer % 2 == 0){count++;};
         }
         System.out.println("WithoutStream -> So phan tu chan: " + count);
     }
